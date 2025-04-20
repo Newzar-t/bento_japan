@@ -51,7 +51,7 @@ function LandingPage({ onClickAction }) {
     return (
         <div className="landing-page">
             <h1>Bento!!</h1>
-            <h2>Your tokyo guide to take on go !</h2>
+            <h2>A simple guide to discover Tokyo and more !</h2>
             <StartButton onClick={handleClick} />
             <img style={bannerStyle} src={Banner} alt="bannerTokyo" />
         </div>

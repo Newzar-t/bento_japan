@@ -26,7 +26,7 @@ const icons = [
     {
         url: CucumberIcon,
         name: "Events",
-        description: "Events happening in the city",
+        description: "Events happening in Japan",
         list: <EventsList/>,
     },
     {
